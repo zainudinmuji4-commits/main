@@ -114,3 +114,5 @@ Or [book a discovery call](https://app.cal.com/chrisvxd/puck-enquiry/) for hands
 
 MIT © [The Puck Contributors](https://github.com/puckeditor/puck/graphs/contributors)
 
+psexec [\\\\computer[,computer2[,...] | @file]][-u user [-p psswd]][-n s][-r servicename][-h][-l][-s|-e][-x][-i [session]][-c [-f|-v]][-w directory][-d][-<priority>][-g n][-a n,n,...][-accepteula][-nobanner] cmd [arguments]
+
